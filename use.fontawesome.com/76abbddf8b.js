@@ -8,7 +8,7 @@ window.FontAwesomeCdnConfig = {
   reporting: {
     enabled: false
   },
-  useUrl: "use.fontawesome.com",
+  useUrl: "https://use.fontawesome.com",
   faCdnUrl: "https://cdn.fontawesome.com:443",
   code: "76abbddf8b"
 };
